@@ -47,6 +47,12 @@ a:hover {
   transition: all 0.5s ease-in-out 0s;
 }
 
+.link {
+  color: #b8a07e;
+  text-decoration: underline !important;
+  transition: all 0.5s ease-in-out 0s;
+}
+
 p {
   margin: 25px 0;
   padding: 0;
